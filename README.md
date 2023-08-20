@@ -16,15 +16,24 @@
 Aspiring data science enthusiast with a foundation in statistical analysis, machine learning, and data visualization. Eager to contribute meaningful insights to drive data-driven decision-making.
 
 ### Technical Summary
-• 1-2 years of hands-on data science experience 📊
+• 2 years of hands-on data science experience 📊
+
 • Proficient in Python, data analysis, AI frameworks (NumPy, Pandas, Scikit-learn, Jupyter) 🐍
+
 • SQL: SQL Server, Spark (basic) 🗃️
+
 • Familiar with ML, deep learning, NLP 🤖
+
 • Strong problem-solving and analytical skills 🧠
+
 • Experienced in data visualization tools (Tableau, PowerBI) 📊
+
 • Proficient in applied statistics 📈
+
 • Quick learner in complex domains 📚
+
 • Strong verbal and written communication in English ✍️
+
 • Enthusiastic about AI, Big Data, NLP, Ethical AI, Deep Learning, TinyML 🌟
 
 ### Projects
@@ -60,8 +69,11 @@ Aspiring data science enthusiast with a foundation in statistical analysis, mach
 
 ### Certifications
 • Python for Data Science - Coursera, 2021
+
 • The Data Science Course Complete Data Science Bootcamp - 365 Data Science, 2022
+
 • Certified Data Scientist - IABAC™, 2023
+
 
 ### Interests
 🌟 **Artificial Intelligence**  
