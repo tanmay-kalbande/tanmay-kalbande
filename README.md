@@ -64,11 +64,11 @@ Aspiring data science enthusiast with a foundation in statistical analysis, mach
 • Certified Data Scientist - IABAC™, 2023
 
 ### Interests
-🌟 **Artificial Intelligence**
-🌐 **Big Data**
-📜 **Natural Language Processing**
-🤝 **Ethical AI**
-🧠 **Deep Learning**
-⚙️ **TinyML**
+🌟 **Artificial Intelligence**  
+🌐 **Big Data**  
+📜 **Natural Language Processing**  
+🤝 **Ethical AI**  
+🧠 **Deep Learning**  
+⚙️ **TinyML**  
 
 ![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=tanmay-kalbande.tanmay-kalbande&left_color=crimson&right_color=708090)
