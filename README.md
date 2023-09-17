@@ -56,4 +56,5 @@ Aspiring data science enthusiast with a foundation in statistical analysis, mach
 🧠 **Deep Learning**  
 ⚙️ **TinyML**  
 
-![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=tanmay-kalbande.tanmay-kalbande&left_color=crimson&right_color=708090)
+![Profile Views](https://komarev.com/ghpvc/?username=tanmay-kalbande.tanmay-kalbande&left_color=crimson&right_color=708090)
+
