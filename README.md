@@ -56,5 +56,5 @@ Aspiring data science enthusiast with a foundation in statistical analysis, mach
 🧠 **Deep Learning**  
 ⚙️ **TinyML**  
 
-![Profile Views](https://komarev.com/ghpvc/?username=tanmay-kalbande&color=crimson&style=flat&label=Profile+views)
+![Profile Views](https://komarev.com/ghpvc/?username=tanmay-kalbande&color=dc143c&style=flat&label=Profile+views)
 
